@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41931'
     url: http://www.gutenberg.org/2009/agents/41931
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42921#A-World-of-WondersWith-Anecdotes-and-Opinions-Concerning-Popular-Superstitions
 gutenberg_issued: '2013-06-12'
 gutenberg_type: Text
 identifiers:
